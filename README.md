@@ -6,11 +6,11 @@ There isn't much here, but I create software, websites, APIs, and discord bots.
 
 I'm working on progressing to make [Discord Bot Factory](https://discord-bot-factory.vercel.app)
 
-🎉 Fun Fact: I study Computer Science and Psychology
-🧑 Pronouns: He/Him/His
-🏳 L(G)BTQ+
-📧 Contact: dwedding2004@gmail.com
-Discord: Professor#8502 @ [Professor's Coding Community](https://discord.gg/k88mEuPU3g)
+- 🎉 Fun Fact: I study Computer Science and Psychology
+- 🧑 Pronouns: He/Him/His
+- 🏳 L(G)BTQ+
+- 📧 Contact: dwedding2004@gmail.com
+- Discord: Professor#8502 @ [Professor's Coding Community](https://discord.gg/k88mEuPU3g)
 
 ### Stats
 <div style="display: flex; flex-direction: row;" align="center">
