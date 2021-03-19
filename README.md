@@ -10,7 +10,7 @@ I'm working on progressing to make [Discord Bot Factory](https://discord-bot-fac
 - 🧑 Pronouns: He/Him/His
 - 🏳 L(G)BTQ+
 - 📧 Contact: dwedding2004@gmail.com
-- Discord: Professor#8502 @ [Professor's Coding Community](https://discord.gg/k88mEuPU3g)
+- Discord: Hiro#7323
 
 ### Stats
 <div style="display: flex; flex-direction: row;" align="center">
