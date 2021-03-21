@@ -1,14 +1,12 @@
-### Welcome to the Ottegi Github! 👋
+### Welcome to the my github! 👋
 
 My name is Daniel Wedding, and I hope to one day turn this project into a full company.
 
 There isn't much here, but I create software, websites, APIs, and discord bots.
 
-I'm working on progressing to make [Discord Bot Factory](https://discord-bot-factory.vercel.app)
-
 - 🎉 Fun Fact: I study Computer Science and Psychology
 - 🧑 Pronouns: He/Him/His
-- 🏳 L(G)BTQ+
+- 🏳 L(G)BTQ+ | Come join [City of Pride](https://ottegi.github.io/City-of-Pride), discord in upper-right corner.
 - 📧 Contact: dwedding2004@gmail.com
 - Discord: Hiro#7323
 
