@@ -4,6 +4,9 @@ My name is Daniel Wedding, and I hope to one day turn this project into a full c
 
 There isn't much here, but I create software, websites, APIs, and discord bots.
 
+You can find my public portfolio [here](https://ottegi.github.io/Portfolio)
+
+### Information
 - 🎉 Fun Fact: I study Computer Science and Psychology
 - 🧑 Pronouns: He/Him/His
 - 🏳 L(G)BTQ+ | Come join [City of Pride](https://ottegi.github.io/City-of-Pride), discord in upper-right corner.
