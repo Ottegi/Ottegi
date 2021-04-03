@@ -6,6 +6,9 @@ There isn't much here, but I create software, websites, APIs, and discord bots.
 
 You can find my public portfolio [here](https://ottegi.github.io/Portfolio)
 
+### Current Team
+I am currently helping on the aid of [exalt](https://github.com/exalt). I am the community manager of exalt and I provide support in ideas, code, and bug reporting.
+
 ### Information
 - 🎉 Fun Fact: I study Computer Science and Psychology
 - 🧑 Pronouns: He/Him/His
